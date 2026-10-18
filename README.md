@@ -64,12 +64,12 @@ Local privacy gateway for protecting data sent to AI services.
 
 ### [WorkBuddy](https://github.com/ithtelab/workbuddy-manager)
 
-<img src="https://img.shields.io/github/issues-pr/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=PR" />
-<img src="https://img.shields.io/github/commit-activity/m/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=activity" />
+<img src="https://img.shields.io/badge/PR%20%23218-CLOSED-6e7781?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/UPDATE-MIRROR%20SUPPORT-667eea?style=for-the-badge&logo=github" />
 
 Management console and deployment layer for a WorkBuddy-compatible gateway.
 
-**[GitHub mirror updates · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Open
+**[GitHub mirror updates · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Closed, not merged
 
 - Mirror-first downloads
 - Direct fallback
@@ -85,7 +85,7 @@ Management console and deployment layer for a WorkBuddy-compatible gateway.
 
 [![Downvid PR](https://img.shields.io/badge/Downvid-Docker%20%2B%20WebUI%20%23%2070-667eea?style=flat-square&logo=github)](https://github.com/Downvid/downvid/pull/70)
 [![Maskit PR](https://img.shields.io/badge/Maskit-CSP%20%2B%20Update%20Check%20%23%2032-764ba2?style=flat-square&logo=github)](https://github.com/xiaYuTian11/maskit/pull/32)
-[![WorkBuddy PR](https://img.shields.io/badge/WorkBuddy-GitHub%20Mirror%20%23%20218-f093fb?style=flat-square&logo=github)](https://github.com/ithtelab/workbuddy-manager/pull/218)
+[![WorkBuddy PR](https://img.shields.io/badge/WorkBuddy-PR%20%23218%20CLOSED-6e7781?style=flat-square&logo=github)](https://github.com/ithtelab/workbuddy-manager/pull/218)
 
 </div>
 
