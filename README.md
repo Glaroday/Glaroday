@@ -32,8 +32,8 @@ My work sits at the intersection of:
 
 ### [Downvid](https://github.com/Downvid/downvid)
 
-<img src="https://img.shields.io/github/stars/Downvid/downvid?style=for-the-badge&logo=github&label=stars" />
-<img src="https://img.shields.io/github/forks/Downvid/downvid?style=for-the-badge&logo=github&label=forks" />
+<img src="https://img.shields.io/github/stars/Downvid/downvid?style=flat-square&logo=github&label=stars" />
+<img src="https://img.shields.io/github/forks/Downvid/downvid?style=flat-square&logo=github&label=forks" />
 
 Cross-platform video downloader built around **yt-dlp** and **FFmpeg**.
 
@@ -48,8 +48,8 @@ Cross-platform video downloader built around **yt-dlp** and **FFmpeg**.
 
 ### [Data Maskit](https://github.com/xiaYuTian11/maskit)
 
-<img src="https://img.shields.io/github/stars/xiaYuTian11/maskit?style=for-the-badge&logo=github&label=stars" />
-<img src="https://img.shields.io/github/forks/xiaYuTian11/maskit?style=for-the-badge&logo=github&label=forks" />
+<img src="https://img.shields.io/github/stars/xiaYuTian11/maskit?style=flat-square&logo=github&label=stars" />
+<img src="https://img.shields.io/github/forks/xiaYuTian11/maskit?style=flat-square&logo=github&label=forks" />
 
 Local privacy gateway for protecting data sent to AI services.
 
@@ -64,12 +64,12 @@ Local privacy gateway for protecting data sent to AI services.
 
 ### [WorkBuddy](https://github.com/ithtelab/workbuddy-manager)
 
-<img src="https://img.shields.io/github/stars/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=stars" />
-<img src="https://img.shields.io/github/forks/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=forks" />
+<img src="https://img.shields.io/github/stars/ithtelab/workbuddy-manager?style=flat-square&logo=github&label=stars" />
+<img src="https://img.shields.io/github/forks/ithtelab/workbuddy-manager?style=flat-square&logo=github&label=forks" />
 
-Management console and deployment layer for a WorkBuddy-compatible gateway.
+Management console for a WorkBuddy-compatible gateway.
 
-**Contributor · [GitHub mirror updates · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Closed, not merged
+**Contributor · [GitHub mirror support · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)**
 
 - Mirror-first downloads
 - Direct fallback
@@ -85,7 +85,7 @@ Management console and deployment layer for a WorkBuddy-compatible gateway.
 
 [![Downvid PR](https://img.shields.io/badge/Downvid-Docker%20%2B%20WebUI%20%23%2070-667eea?style=flat-square&logo=github)](https://github.com/Downvid/downvid/pull/70)
 [![Maskit PR](https://img.shields.io/badge/Maskit-CSP%20%2B%20Update%20Check%20%23%2032-764ba2?style=flat-square&logo=github)](https://github.com/xiaYuTian11/maskit/pull/32)
-[![WorkBuddy PR](https://img.shields.io/badge/WorkBuddy-PR%20%23218%20CLOSED-6e7781?style=flat-square&logo=github)](https://github.com/ithtelab/workbuddy-manager/pull/218)
+[![WorkBuddy PR](https://img.shields.io/badge/WorkBuddy-GitHub%20Mirror%20%23%20218-f093fb?style=flat-square&logo=github)](https://github.com/ithtelab/workbuddy-manager/pull/218)
 
 </div>
 
