@@ -28,52 +28,56 @@ My work sits at the intersection of:
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### [Downvid](https://github.com/Downvid/downvid)
 
 <img src="https://img.shields.io/github/stars/Downvid/downvid?style=for-the-badge&logo=github&label=stars" />
 <img src="https://img.shields.io/github/forks/Downvid/downvid?style=for-the-badge&logo=github&label=forks" />
 
-A modern cross-platform video downloader built around **yt-dlp** and **FFmpeg**.
+Cross-platform video downloader built around **yt-dlp** and **FFmpeg**.
 
-**[Docker support and native WebUI integration · PR #70](https://github.com/Downvid/downvid/pull/70)**
+**[Docker + WebUI · PR #70](https://github.com/Downvid/downvid/pull/70)**
 
-- Container deployment without changing the desktop core
-- Thin compatibility bridge for the existing WebUI
-- WebSocket RPC and isolated container boundaries
-- Safer localhost defaults and Origin validation
+- Container deployment
+- WebSocket RPC bridge
+- Origin validation
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### [Data Maskit](https://github.com/xiaYuTian11/maskit)
 
 <img src="https://img.shields.io/github/stars/xiaYuTian11/maskit?style=for-the-badge&logo=github&label=stars" />
 <img src="https://img.shields.io/github/forks/xiaYuTian11/maskit?style=for-the-badge&logo=github&label=forks" />
 
-A local privacy gateway for masking sensitive data before requests reach AI services.
+Local privacy gateway for protecting data sent to AI services.
 
-**[CSP and update-check reliability · PR #32](https://github.com/xiaYuTian11/maskit/pull/32)**
+**[CSP + update reliability · PR #32](https://github.com/xiaYuTian11/maskit/pull/32)**
 
-- Fixed browser CSP blocking the GitHub update check
-- Added server-side fallback and neutral error handling
-- Added regression coverage for browser and backend paths
+- CSP fix
+- Server fallback
+- Regression tests
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### [WorkBuddy](https://github.com/ithtelab/workbuddy-manager)
+
+<img src="https://img.shields.io/github/issues-pr/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=PR" />
+<img src="https://img.shields.io/github/commit-activity/m/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=activity" />
+
+Management console and deployment layer for a WorkBuddy-compatible gateway.
+
+**[GitHub mirror updates · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Open
+
+- Mirror-first downloads
+- Direct fallback
+- SHA-256 verification
 
 </td>
 </tr>
 </table>
-
-### [WorkBuddy Manager](https://github.com/ithtelab/workbuddy-manager)
-
-A management console and deployment layer for a WorkBuddy-compatible gateway.
-
-**[GitHub mirror update support · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Open
-
-- Optional mirror support for GitHub API metadata and release assets
-- Direct-connection fallback when the mirror is unavailable
-- SHA-256 verification for downloaded release packages
-- Coverage for Windows, Docker, and native deployment paths
 
 <div align="center">
 
