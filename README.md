@@ -64,12 +64,24 @@ A local privacy gateway for masking sensitive data before requests reach AI serv
 </tr>
 </table>
 
+### [WorkBuddy Manager](https://github.com/ithtelab/workbuddy-manager)
+
+A management console and deployment layer for a WorkBuddy-compatible gateway.
+
+**[GitHub mirror update support · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Open
+
+- Optional mirror support for GitHub API metadata and release assets
+- Direct-connection fallback when the mirror is unavailable
+- SHA-256 verification for downloaded release packages
+- Coverage for Windows, Docker, and native deployment paths
+
 <div align="center">
 
 ### Contribution highlights
 
 [![Downvid PR](https://img.shields.io/badge/Downvid-Docker%20%2B%20WebUI%20%23%2070-667eea?style=flat-square&logo=github)](https://github.com/Downvid/downvid/pull/70)
 [![Maskit PR](https://img.shields.io/badge/Maskit-CSP%20%2B%20Update%20Check%20%23%2032-764ba2?style=flat-square&logo=github)](https://github.com/xiaYuTian11/maskit/pull/32)
+[![WorkBuddy PR](https://img.shields.io/badge/WorkBuddy-GitHub%20Mirror%20%23%20218-f093fb?style=flat-square&logo=github)](https://github.com/ithtelab/workbuddy-manager/pull/218)
 
 </div>
 
