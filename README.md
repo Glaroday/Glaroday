@@ -1,80 +1,112 @@
 <div align="center">
 
-# QingYuan Li
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=QingYuan%20Li&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Open%20Source%20Contributor%20%7C%20Developer%20Tools%20%7C%20Self-hosted%20Infrastructure&descAlignY=61&descSize=16" width="100%" />
 
-**Software engineer contributing to developer tools, self-hosted infrastructure, and AI workflows.**
+<img src="./assets/avatar.png" width="150" alt="QingYuan Li avatar" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Glaroday-181717?style=flat-square&logo=github)](https://github.com/Glaroday)
-[![Location](https://img.shields.io/badge/Glasgow-UK-2f80ed?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Glaroday)
+# Hi, I'm QingYuan Li 👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-Glaroday-181717?style=for-the-badge&logo=github)](https://github.com/Glaroday)
+[![Location](https://img.shields.io/badge/Glasgow-UK-2f80ed?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Glaroday)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=667EEA&center=true&vCenter=true&width=760&lines=Open+Source+Contributor;Developer+Tools+%7C+Deployment+%7C+Reliability;Self-hosted+Infrastructure+%7C+AI+Workflows;Small+changes%2C+real-world+impact)](https://git.io/typing-svg)
 
 </div>
 
-## Open-source contributions
+## About me
 
-I focus on changes that improve deployment, security boundaries, and reliability without unnecessarily disturbing the host project.
+I contribute to practical software that is easier to deploy, safer to operate, and more reliable in real environments.
+
+My work sits at the intersection of:
+
+- Developer tools and automation
+- Self-hosted deployment workflows
+- AI gateways and privacy-aware infrastructure
+- Security-conscious defaults and operational reliability
+
+## Selected contributions
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### [Downvid](https://github.com/Downvid/downvid)
 
-A cross-platform video downloader built around **yt-dlp** and **FFmpeg**.
+<img src="https://img.shields.io/github/stars/Downvid/downvid?style=for-the-badge&logo=github&label=stars" />
+<img src="https://img.shields.io/github/forks/Downvid/downvid?style=for-the-badge&logo=github&label=forks" />
+
+A modern cross-platform video downloader built around **yt-dlp** and **FFmpeg**.
 
 **[Docker support and native WebUI integration · PR #70](https://github.com/Downvid/downvid/pull/70)**
 
-- Added a container deployment path while keeping the desktop core unchanged
-- Reused the existing WebUI through a thin compatibility bridge
-- Added WebSocket RPC and container-specific service boundaries
-- Added safer localhost defaults and Origin validation
-
-[![Stars](https://img.shields.io/github/stars/Downvid/downvid?style=flat-square)](https://github.com/Downvid/downvid)
-[![Forks](https://img.shields.io/github/forks/Downvid/downvid?style=flat-square)](https://github.com/Downvid/downvid)
+- Container deployment without changing the desktop core
+- Thin compatibility bridge for the existing WebUI
+- WebSocket RPC and isolated container boundaries
+- Safer localhost defaults and Origin validation
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### [Data Maskit](https://github.com/xiaYuTian11/maskit)
+
+<img src="https://img.shields.io/github/stars/xiaYuTian11/maskit?style=for-the-badge&logo=github&label=stars" />
+<img src="https://img.shields.io/github/forks/xiaYuTian11/maskit?style=for-the-badge&logo=github&label=forks" />
 
 A local privacy gateway for masking sensitive data before requests reach AI services.
 
 **[CSP and update-check reliability · PR #32](https://github.com/xiaYuTian11/maskit/pull/32)**
 
 - Fixed browser CSP blocking the GitHub update check
-- Added a server-side fallback and neutral error handling
+- Added server-side fallback and neutral error handling
 - Added regression coverage for browser and backend paths
-
-[![Stars](https://img.shields.io/github/stars/xiaYuTian11/maskit?style=flat-square)](https://github.com/xiaYuTian11/maskit)
-[![Forks](https://img.shields.io/github/forks/xiaYuTian11/maskit?style=flat-square)](https://github.com/xiaYuTian11/maskit)
 
 </td>
 </tr>
 </table>
 
-## Engineering interests
+<div align="center">
 
-- Developer tooling and automation
-- Self-hosted deployment workflows
-- AI gateways and privacy-aware infrastructure
-- Security-conscious defaults and operational reliability
-- Small, testable changes that integrate cleanly with existing systems
+### Contribution highlights
+
+[![Downvid PR](https://img.shields.io/badge/Downvid-Docker%20%2B%20WebUI%20%23%2070-667eea?style=flat-square&logo=github)](https://github.com/Downvid/downvid/pull/70)
+[![Maskit PR](https://img.shields.io/badge/Maskit-CSP%20%2B%20Update%20Check%20%23%2032-764ba2?style=flat-square&logo=github)](https://github.com/xiaYuTian11/maskit/pull/32)
+
+</div>
 
 ## Toolbox
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,docker,powershell,githubactions,git,linux&perline=10" alt="Technology stack" />
 
 </div>
 
-## Explore
+## GitHub activity
 
-- [Repositories](https://github.com/Glaroday?tab=repositories)
-- [Contribution activity](https://github.com/Glaroday?tab=overview)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Glaroday&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&hide_title=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaroday&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Glaroday&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## Find me
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-667eea?style=for-the-badge&logo=github)](https://github.com/Glaroday?tab=repositories)
+[![Activity](https://img.shields.io/badge/Contribution%20activity-View-764ba2?style=for-the-badge&logo=github)](https://github.com/Glaroday?tab=overview)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer" width="100%" />
+
+</div>
