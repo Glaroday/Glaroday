@@ -64,12 +64,12 @@ Local privacy gateway for protecting data sent to AI services.
 
 ### [WorkBuddy](https://github.com/ithtelab/workbuddy-manager)
 
-<img src="https://img.shields.io/badge/PR%20%23218-CLOSED-6e7781?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/UPDATE-MIRROR%20SUPPORT-667eea?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=stars" />
+<img src="https://img.shields.io/github/forks/ithtelab/workbuddy-manager?style=for-the-badge&logo=github&label=forks" />
 
 Management console and deployment layer for a WorkBuddy-compatible gateway.
 
-**[GitHub mirror updates · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Closed, not merged
+**Contributor · [GitHub mirror updates · PR #218](https://github.com/ithtelab/workbuddy-manager/pull/218)** · Closed, not merged
 
 - Mirror-first downloads
 - Direct fallback
